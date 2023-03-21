@@ -3,7 +3,7 @@
 //as a demo for connecting ROBOTARM_GAME_V4
 
 Final Project
-By Ben & Clara
+By Ben
 
 This code utilizes the pre-existing project of the robotic arm in which we were required to alter the exisiting code by creating our own form
 of remote in order to contorl the movements and functions of the different setions on the virtual robotic arm via 'Arduino' & 'Processing'.
